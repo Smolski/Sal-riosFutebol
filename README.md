@@ -1,4 +1,4 @@
-# Exercício da Competição DSA
+# Exercício da Competição DSA Visualização
 
 Fonte: http://bi.mte.gov.br/bgcaged/rais.php
 
